@@ -11,11 +11,12 @@ git status
 echo.
 echo Adding git...
 git add .
-echo Done
+echo Git added successfully
 
 echo.
 echo Making commits...
 git commit -m "new commit"
+echo Commits made successfully
 
 echo.
 echo Pushing git
@@ -64,4 +65,3 @@ goto end
 :end
 timeout 60
 goto start
-
