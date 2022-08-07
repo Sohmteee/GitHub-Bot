@@ -51,7 +51,6 @@ echo.
 echo Copy and Paste the link to your GitHub repository
 echo It should look something like "https://github.com/<username>/<name of repository>.git"
 set /p rep= Paste the link here: 
-@REM set rep = %rep: " : = %
 git remote add origin %rep%
 echo Added remote git successfully
 
