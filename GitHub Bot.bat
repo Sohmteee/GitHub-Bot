@@ -11,12 +11,12 @@ git status
 echo.
 echo Adding git...
 git add .
-echo Git added successfully
+echo Added git successfully
 
 echo.
-echo Making commits...
+echo Adding commits...
 git commit -m "new commit"
-echo Commits made successfully
+echo Added commits successfully
 
 echo.
 echo Pushing git
@@ -39,7 +39,7 @@ git add .
 echo Added git successfully
 
 echo.
-echo Making commit...
+echo Adding commit...
 git commit -m "first commit"
 echo Added commit successfully
 
