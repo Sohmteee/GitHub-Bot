@@ -64,4 +64,5 @@ goto end
 
 :end
 timeout 60
+cls
 goto start
