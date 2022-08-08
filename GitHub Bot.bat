@@ -15,7 +15,7 @@ echo Added git successfully
 
 echo.
 echo Adding commits...
-git commit -m "new commit"
+git commit -m "commit"
 echo Added commits successfully
 
 echo.
@@ -40,7 +40,7 @@ echo Added git successfully
 
 echo.
 echo Adding commit...
-git commit -m "first commit"
+git commit -m "commit"
 echo Added commit successfully
 
 echo.
